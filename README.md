@@ -1,2 +1,2 @@
 # opencv
-opencv코드를 저장한 귀중한 저장소
+C# opencv코드를 저장한 귀중한 저장소
